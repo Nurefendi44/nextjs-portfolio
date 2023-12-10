@@ -30,7 +30,7 @@ const Navbar = () => {
           href={"https://linkedin.com"}
           className="text-2xl md:text-3xl text-white font-semibold"
         >
-          Farid Efendi
+          Farid Efendii
         </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
